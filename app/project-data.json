@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "name": "Website Redesign",
+      "owner": "Mona",
+      "status": "On track",
+      "recentActivity": "Design review completed",
+      "priority": "High"
+    },
+    {
+      "name": "Mobile App Launch",
+      "owner": "Jordan",
+      "status": "At risk",
+      "recentActivity": "Delay in API delivery",
+      "priority": "Medium"
+    },
+    {
+      "name": "Infrastructure Upgrade",
+      "owner": "Aisha",
+      "status": "Blocked",
+      "recentActivity": "Awaiting budget approval",
+      "priority": "High"
+    }
+  ]
+}
